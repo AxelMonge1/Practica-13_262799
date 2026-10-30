@@ -10,7 +10,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Builder
 public class Recurso {
-    private  Long id;
+    private Long id;
     private String titulo;
     private String url;
     private String tipo;
